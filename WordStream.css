@@ -1,0 +1,266 @@
+#container{
+	background-color: white;
+	font-family: sans-serif;
+	margin: 0px auto;
+	width: 970px;
+}
+
+#header{
+	background-color: white;
+	height: 40px;
+	padding-left: 550px;
+	width: 0px auto;
+}
+
+#header ul{
+	border-right: 1px solid gray;
+	border-bottom: 1px solid gray;
+	border-left: 1px solid gray;
+	border-bottom-right-radius: 5px;
+	border-bottom-left-radius: 5px;
+	display: inline;
+	margin: 0px;
+	padding: 0px 5px 5px 5px;
+}
+
+#header ul li{
+	display: inline-block;
+	font-size: 12px;
+	vertical-align: top;
+}
+
+#login{
+	background-color: blue;
+	color: white;
+	margin-left: 10px;
+}
+
+#banner{
+	background-color: white;
+	height: 60px;
+	width: 0px auto;
+}
+
+#banner p{
+	display: inline-block;
+	font-size: 26px;
+	margin-top: 17px;
+	margin-bottom: 17px;
+	padding-left: 10px;
+	vertical-align: top;
+}
+
+#banner2{
+	background-color: blue;
+	height: 48px;
+	width: 0px auto;
+}
+
+#banner2 p{
+	color: white;	
+	display: inline-block;
+	font-size: 20px;
+	margin-top: 14px;
+	margin-bottom: 14px;
+	padding-left: 10px;
+	vertical-align: top;
+}
+
+/*#banner2{
+	background-color: blue;
+	height: 60px;
+}
+
+#banner2 p{
+	color: white;
+	font-size: 20px;
+	font-weight: bold;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}*/
+
+#banner3{
+	background-color: white;
+	height: 60px;
+	padding-left: 260px;
+	width: 0px auto;
+}
+
+#banner3 .home, .phone{
+	display: inline-block;
+	height: 60px;
+	vertical-align: top;
+	width: 0px auto;
+}
+
+#banner3 .home img{
+	display: inline-block;
+	margin-top: 22px;
+	margin-bottom: 0px;
+	vertical-align: top;
+}
+
+#banner3 .home p{
+	color: blue;
+	display: inline-block;
+	margin-top: 25px;
+	margin-bottom: 0px;
+	vertical-align: top;
+}
+
+#banner3 .phone{
+	padding-left: 425px;
+}
+
+#banner3 .phone img{
+	display: inline-block;
+	margin-top: 9px;
+	margin-bottom: 9px;
+	vertical-align: top;
+}
+
+#banner3 .phone p{
+	font-size: 10px;
+	display: inline-block;
+	vertical-align: top;
+}
+
+#banner3 .phone p .number{
+	color: blue;
+	font-size: 20px;
+	font-weight: bold;
+	padding-left: 6px;
+	padding-right: 6px;
+}
+
+#sidebar{
+	background-color: white;
+	display: inline-block;
+	height: 250px;
+	margin: 8px 10px 0px 0px;
+	width: 250px;
+}
+
+#sidebar h4{
+	margin: 0px;
+	padding: 0px;
+}
+
+#sidebar p{
+	font-size: 13px;
+	margin: 0px;
+	padding: 5px 0px 5px 0px;
+}
+
+#sidebar .schedule-button{
+	background-color: blue;
+	border-radius: 8px;
+	color: white;
+	font-size: 12px;
+	font-weight: bold;
+	height: 30px;
+	margin: 2px 0px 2px 20px;
+	width: 175px;
+}
+
+#sidebar .trial-button{
+	background-color: orange;
+	border-radius: 8px;
+	color: white;
+	font-size: 12px;
+	font-weight: bold;
+	height: 30px;
+	margin: 2px 0px 2px 20px;
+	width: 175px;
+}
+
+#sidebar .fine-print{
+	font-size: 10px;
+	margin: 0px;
+	padding: 5px 0px 5px 40px;
+}
+
+#sidebar .ruler-box{
+	background-image: url("screen3-images/left_content_ad.png");
+	height: 241px;
+	width: 198px;
+}
+
+#sidebar .ruler-box h4{
+	margin: 0px;
+	padding: 10px 0px 0px 10px;
+}
+
+#sidebar .ruler-box p{
+	font-size: 12px;
+	margin: 0px;
+	padding: 10px 0px 10px 10px;
+}
+
+.graded-button{
+	background-color: blue;
+	border-radius: 8px;
+	color: white;
+	font-size: 10px;
+	font-weight: bold;
+	height: 30px;
+	margin: 2px 0px 2px 10px;
+	width: 135px;
+}
+
+#main{
+	background-color: white;
+	display: inline-block;
+	width: 700px;
+	vertical-align: top;
+}
+
+#main h3, h4{
+	color: blue;
+	font-weight: bold;
+	margin: 0px;
+}
+
+#main .bluebox .start-button{
+	background-color: green;
+	border-radius: 8px;
+	color: white;
+	font-size: 12px;
+	font-weight: bold;
+	height: 30px;
+/*	margin: 2px 0px 2px 15px;*/
+	width: 175px;
+}
+
+.bluebox{
+	border: 3px solid lightblue;
+	margin: 0px 0px 16px 0px;
+	padding: 10px;
+}
+
+.bluebox img, .text{
+	display: inline-block;
+	vertical-align: top;
+}
+
+.bluebox img{
+	padding-right: 10px;
+}
+
+.bluebox .text{
+	margin-top: 0px;
+	width: 600px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
